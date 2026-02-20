@@ -11,8 +11,8 @@ My path here is unusual.  I spent nearly a decade at U.S. Strategic Command as a
 **Agent Gate**
 Open-source execution authority layer for AI agents.  Intercepts tool calls, classifies actions against declarative policy, enforces vault-backed rollback before destructive operations.  The agent runs at full autonomy; the gate silently ensures every destructive action is reversible.  Live integration with Anthropic's Claude Code. Apache 2.0.
 
-**SPACES Platform**
-Scalable Parallel Agent Coordination and Execution System.  Multi-role agent hierarchy with inbox-based communication, dedicated audit agents for specification compliance, and a Context Lifecycle Management system enabling agents to survive context exhaustion through structured memory handoff.
+**Command Post**
+A scalable parallel agent coordination and execution system.  Multi-role agent hierarchy with inbox-based communication, dedicated audit agents for specification compliance, and a Context Lifecycle Management system enabling agents to survive context exhaustion through structured memory handoff.
 
 ---
 
