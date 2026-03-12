@@ -14,11 +14,14 @@ Open-source execution authority layer for AI agents.  Intercepts tool calls, cla
 **Command Post**
 A scalable parallel agent coordination and execution system.  Multi-role agent hierarchy with inbox-based communication, dedicated audit agents for specification compliance, and a Context Lifecycle Management system enabling agents to survive context exhaustion through structured memory handoff.
 
+**AI Assistant Platform**
+A 24/7 autonomous AI assistant deployed across two major versions.  V1: end-to-end RAG pipeline with n8n orchestration, vector databases, GPT-4 integration, and voice synthesis.  V2: complete rebuild featuring four-layer memory architecture with dual-write SQLite and git-versioned corpus, hybrid retrieval using FTS5, vector embeddings, and Reciprocal Rank Fusion, LLM-powered fact consolidation, Observational Memory for context compression, and a multi-agent director system with autonomous planning, execution, and self-correction.
+
 ---
 
 ## Background
 
-Eight years as Senior Product Manager at the Defense Counterintelligence and Security Agency, where I scaled eApp from prototype to a national platform supporting 2M+ applications annually, and launched WatchTower, which eliminated a 4-year backlog and saved $16M+.  Currently Product Owner at North Dakota IT.
+Eight years at the Defense Counterintelligence and Security Agency as Senior Product Manager for WatchTower and Product Owner for eApp.  Scaled eApp from prototype to a national platform supporting 2M+ applications annually.  WatchTower eliminated a 4-year backlog and saved $16M+.  Currently Product Owner at North Dakota IT.
 
 
 Selected case studies and system write-ups are available at https://www.fallingdata.zone
